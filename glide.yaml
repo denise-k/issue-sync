@@ -2,7 +2,7 @@ package: github.com/coreos/issue-sync
 import:
 - package: github.com/spf13/cobra
 - package: github.com/spf13/viper
-- package: github.com/Sirupsen/logrus
+- package: github.com/sirupsen/logrus
   version: v1.0.0
 - package: github.com/google/go-github
 - package: golang.org/x/oauth2

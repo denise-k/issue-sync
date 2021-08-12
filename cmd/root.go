@@ -3,7 +3,7 @@ package cmd
 import (
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/coreos/issue-sync/cfg"
 	"github.com/coreos/issue-sync/lib"
 	"github.com/coreos/issue-sync/lib/clients"
